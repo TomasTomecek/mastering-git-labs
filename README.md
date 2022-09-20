@@ -10,6 +10,9 @@
 
 ## Lab
 
+This lab exercises simple branching operations and a basic open source pull request workflowwwwwwwwwwwwwwwwwwwwww.
+
+
 ### Setup
 
 * Clone this repository (clone it again even if you have a copy locally)
