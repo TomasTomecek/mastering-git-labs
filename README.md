@@ -6,3 +6,14 @@
 * Tags
 * Merging
 * Stash
+
+
+## Sample commands
+
+```
+$ git magic
+```
+
+```
+$ git fix-the-bug-commit-push-create-pr-resolve-tests-and-make-me-a-coffee-thanks
+```
