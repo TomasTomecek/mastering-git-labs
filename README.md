@@ -49,7 +49,7 @@ You are still free to do this task.
    * `git remote add origin git@github.com:$USERNAME/mastering-git-class2-lab`: now to set up our fork
    * `git fetch --all`: let's fetch all refs to be sure we set it up correctly
 
-  9. Let's push to our fork's main to see our change: `git push origin main:main`
+  9. Let's push to our fork's main to see our change: `git push origin main:main` (we are telling git to push our local branch `main` into our fork repository and name the branch `main` there: so basically put our new local commits from main into fork's main)
   10. The best practice is to create pull requests from dedicated branches, not main, so let's push again: `git push origin fix-add-lab-description:fix-add-lab-description`
   11. Time to create the PR!
 
