@@ -1,0 +1,3 @@
+* Virtual & in-person teaching is challenging but can be done.
+* FI MUNI students are smart, creative and interactive.
+* `git mv, switch`

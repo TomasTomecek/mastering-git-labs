@@ -1,23 +1,36 @@
 # Mastering git: class 2 lab
 
-## Class 2 topics
+
+## Class 3
+
+* Push & pull
+* Remotes
+* Pull requests
+
+### Lab
+
+* find a file with your `<UCO>.txt` and write down what’s the most valuable thing you learnt so far on this course
+* CI needs to pass
+* BONUS: contribute also to `what_we_learnt.txt` (beware of rebase and merge conflicts!)
+
+
+## Class 2
 
 * Branches
 * Tags
 * Merging
 * Stash
 
+### Lab
 
-## Lab
-
-### Setup
+#### Setup
 
 * Clone this repository (clone it again even if you have a copy locally)
   * Run `git branch add-lab-description origin/add-lab-description`
   * Run `git branch wip-show-sample-commands origin/wip-show-sample-commands`
   * These commands will create local copies of branches from remote origin: in this repository
 
-### Tasks
+#### Tasks
 
 * Delete branch “wip-show-sample-commands”
 * Does the “add-lab-description” top commit look okay?
@@ -28,8 +41,7 @@
 * BONUS: push your local main into your fork
 * EPIC BONUS: Create a pull request from fix-add-lab-description to this repository
 
-
-## Solution
+### Solution
 
 You are still free to do this task.
 
