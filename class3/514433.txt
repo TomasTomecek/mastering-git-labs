@@ -1,0 +1,1 @@
+Differences between old and now commands like git switch/checkout.
