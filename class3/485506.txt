@@ -1,0 +1,4 @@
+- git stash
+- pull request and merge request are the same thing (calling it a pull request confuses me though)
+- using git switch instead of checkout
+- git tag
