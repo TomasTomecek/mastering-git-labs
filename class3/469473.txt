@@ -1,0 +1,4 @@
+- what rebase actually does
+- git switch command
+- local / global / system
+- branches & pointers
