@@ -1,0 +1,5 @@
+- git switch
+- refs and what the branches actually are
+- what FF is
+- basic idea and etiquette behind PRs
+
