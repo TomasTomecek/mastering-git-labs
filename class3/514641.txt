@@ -1,0 +1,1 @@
+Getting more comfortable with using git and learning what commands really do and not seeing them as black box.
