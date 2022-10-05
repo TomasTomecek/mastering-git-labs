@@ -1,0 +1,3 @@
+git mv and rm
+
+also cleared up what the difference between fetch and pull is
