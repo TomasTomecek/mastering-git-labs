@@ -2,3 +2,4 @@
 - git switch command
 - local / global / system
 - branches & pointers
+- maybe pushing into pull request
