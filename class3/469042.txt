@@ -1,0 +1,3 @@
+-how connection between local, upstream and origin exactly works
+-git stash & tags
+-rebase vs. merge
