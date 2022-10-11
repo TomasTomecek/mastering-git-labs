@@ -11,6 +11,11 @@
   * Public troubles
 
 
+### Lab
+
+Try interactive rebase on the branch `rebase-i-scenario`.
+
+
 ## Class 3
 
 * Push & pull
