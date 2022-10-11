@@ -1,5 +1,12 @@
 # Mastering git: class 2 lab
 
+I think that
+
+# Class 3
+
+will be here
+
+
 ## Class 2 topics
 
 * Branches
