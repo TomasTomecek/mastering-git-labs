@@ -3,6 +3,13 @@
 
 ## Class 4
 
+* Fixing Mistakes
+* Handy git tools and commands
+* Rebase and Merge Conflicts
+* Issues of various complexity
+  * Local troubles
+  * Public troubles
+
 
 ## Class 3
 
