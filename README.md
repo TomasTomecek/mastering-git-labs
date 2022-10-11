@@ -15,16 +15,20 @@ will be here
 * Stash
 
 
-## Lab
+## Lab // these
 
-### Setup
+### Setup // will
+
+be
 
 * Clone this repository (clone it again even if you have a copy locally)
   * Run `git branch add-lab-description origin/add-lab-description`
   * Run `git branch wip-show-sample-commands origin/wip-show-sample-commands`
   * These commands will create local copies of branches from remote origin: in this repository
 
-### Tasks
+changed
+
+### Tasks // probably
 
 * Delete branch “wip-show-sample-commands”
 * Does the “add-lab-description” top commit look okay?
@@ -35,6 +39,8 @@ will be here
 * BONUS: push your local main into your fork
 * EPIC BONUS: Create a pull request from fix-add-lab-description to this repository
 
+
+likely
 
 ## Solution
 
