@@ -1,4 +1,4 @@
-# Mastering git: class 2 lab
+# Mastering git: class labs
 
 
 ## Class 3
