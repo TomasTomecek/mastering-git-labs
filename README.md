@@ -4,7 +4,9 @@ I think that
 
 # Class 3
 
-will be here
+* Poems
+* Novels
+* Documentaries
 
 
 ## Class 2 topics
