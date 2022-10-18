@@ -3,6 +3,11 @@
 
 ## Class 5
 
+* Reset, checkout, restore, show
+* How to write a good commit message?
+* Best practices for contributing to open source projects
+* How to use force-push properly?
+
 ### Lab
 
 * Clone the lab repo `git clone https://github.com/TomasTomecek/mastering-git-labs`
