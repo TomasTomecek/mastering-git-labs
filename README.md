@@ -5,6 +5,12 @@
 
 TBD
 
+### Lab
+
+* I think reset, checkout
+* Would be nice to resolve some conflicts or something
+* Rebase is always great
+
 
 ## Class 4
 
