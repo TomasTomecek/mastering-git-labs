@@ -1,6 +1,22 @@
 # Mastering git: class 2 lab
 
 
+## Class 5
+
+TBD
+
+### Lab
+
+* I think reset, checkout
+* Would be nice to resolve some conflicts or something
+* Rebase is always great
+
+
+## Class 4
+
+Content missing
+
+
 ## Class 3
 
 * Push & pull
